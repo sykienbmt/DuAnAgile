@@ -98,7 +98,6 @@ class products extends Component {
         } else if (sort === "N/A") {
             this.refreshProduct()
         }
-
         this.setState({ userData: list });
     }
 
@@ -107,7 +106,7 @@ class products extends Component {
             <div>
                 <div className="small-container">
                     <div className="small-container-title">
-                        <div className="row row-2">
+                        <div className="row1 row-2">
                             <div className="group-search">
                                 <input className="inputAll" onChange={(event) => this.changeInput(event)}
                                     type="text" placeholder="Search..."
@@ -135,7 +134,6 @@ class products extends Component {
                         <span>→</span>
                     </div>
                 </div>
-
             </div>
         );
     }

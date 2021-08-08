@@ -65,7 +65,14 @@ p {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
+.row1 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 .col-2 {
   flex-basis: 50%;
   min-width: 300xp;

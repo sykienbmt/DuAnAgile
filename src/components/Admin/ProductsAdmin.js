@@ -126,7 +126,7 @@ class form extends Component {
 
     displayProductsDetail = () => {
         return (
-            <div className="row">
+            <div className="row1">
                 {this.state.userData.map((value, key) => {
                     return <ItemProducts price={this.format_curency(value.price)} pid={value.id} key={key} name={value.name} image={value.image} dataList={this.state.userData}
                         onClickDelete={this.deleteProduct}
