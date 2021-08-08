@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "/images/product-8.jpg",
+        "name": "Watch Black",
+        "price": 1000
+    },
+    {
+        "id": 2,
+        "image": "/images/product-9.jpg",
+        "name": "Watch Gray",
+        "price": 2000
+    },
+    {
+        "id": 3,
+        "image": "/images/product-10.jpg",
+        "name": "Shoes Adidas",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "image": "/images/product-11.jpg",
+        "name": "Shoes Nike",
+        "price": 500
+    },
+    {
+        "id": 5,
+        "image": "/images/product-7.jpg",
+        "name": "Shock full color",
+        "price": 500
+    },
+    {
+        "id": 6,
+        "image": "/images/product-6.jpg",
+        "name": "T-Shirt Black",
+        "price": 500
+    },
+    {
+        "id": 7,
+        "image": "/images/product-5.jpg",
+        "name": "Shoes Puma",
+        "price": 500
+    },
+    {
+        "id": 8,
+        "image": "/images/product-4.jpg",
+        "name": "T-Shirt Blue",
+        "price": 500
+    }
+]

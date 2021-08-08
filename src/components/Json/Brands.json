@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "image":"images/logo-godrej.png"
+    },
+    {
+        "id":2,
+        "image":"images/logo-oppo.png"
+    },
+    {
+        "id":3,
+        "image":"images/logo-coca-cola.png"
+    },
+    {
+        "id":4,
+        "image":"images/logo-paypal.png"
+    },
+    {
+        "id":5,
+        "image":"images/logo-philips.png"
+    }
+]
